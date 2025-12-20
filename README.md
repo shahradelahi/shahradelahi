@@ -5,6 +5,6 @@
 
 <p>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shahradelahi">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shahradelahi?style=flat&label=Stars&color=%23e3b341">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shahradelahi?logo=github&style=flat&label=Stars&color=%23e3b341">
+<img alt="NPM Downloads by package author" src="https://img.shields.io/npm-stat/dm/shahradelahi?logo=npm&label=Downloads&color=CB3837">
 </p>
-
